@@ -38,6 +38,7 @@ function izracun() {
   reset();
 }
 
+//končani projekt
 function clearHistory (){
   document.getElementById("izracuni").innerHTML = "";
   document.getElementById("display").value = "";
